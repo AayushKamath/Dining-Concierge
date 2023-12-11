@@ -1,0 +1,14 @@
+---
+:id: 113042312
+:submitters:
+- :name: Jacob Yatvitskiy
+  :email: jay2142@columbia.edu
+- :name: Aayush Prashant Kamath
+  :email: ak4808@columbia.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-02-23 01:37:56.310745000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-02-22 17:37:56.310745000 Z
+:status: processed
+:score: 95.0
